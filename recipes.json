@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Tona",
+        "ingredients": [
+            "Chicken",
+            "Rice",
+            "Onion"
+        ],
+        "instructions": "Cook chicken with rice and onion",
+        "category": "Main Course"
+    }
+]
